@@ -1,8 +1,8 @@
 {
-	"name": "git_util",
+	"name": "git-util-ts",
 	"version": "1.0.0",
 	"description": "",
-	"bin": "./dist/git_util",
+	"bin": "./dist/git_util.js",
 	"main": "./dist/lib/index.js",
 	"types": "./src/lib/index.ts",
 	"scripts": {
